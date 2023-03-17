@@ -1,8 +1,8 @@
-s1 = 'abcd'
+s1 = 'abcd' #переменная 1
 
 
-def regis_fun():
-    s2 = s1.swapcase()
-    return s2
+def regis_fun(): #название функции
+    s2 = s1.swapcase() #тело функции
+    return s2 #возвращает переменную 2
 
 
